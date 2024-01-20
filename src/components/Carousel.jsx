@@ -36,16 +36,6 @@ const Carousel = () =>{
             price: 20000,
             url:"https://i.postimg.cc/br20hmbg/Whats-App-Image-2024-01-20-at-12-09-59-AM.jpg",
 
-        },
-        {
-            title :"Producto 6",
-            price: 20000,
-            url:"https://i.postimg.cc/ZY12ygfT/Whats-App-Image-2024-01-20-at-12-08-46-AM.jpg",
-
-        }, 
-
-        
-   
         
         
 
