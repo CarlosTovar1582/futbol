@@ -142,7 +142,7 @@ export default function Posiciones() {
                 <div className='text-black rounded-2xl  h-6 text-sm'>5</div>  
               
                 <div className='text-black rounded-2xl border-2 border-slate-900 ... h-6 text-sm'>3</div>
-                <div className='text-black rounded-2xl  h-6 text-sm'>Santa Elvira/div>                    
+                <div className='text-black rounded-2xl  h-6 text-sm'>Santa Elvira</div>                    
                 <div className='text-black rounded-2xl  h-6 text-sm'>Robert Inca</div>   
                 <div className='text-black rounded-2xl  h-6 text-sm'>4</div>    
 
